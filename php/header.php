@@ -1,4 +1,17 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Header Menu</title>
 
+    <!-- Bootstrap CSS -->
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-DfXdz/ql3kXbN2jJfoN/psG8Z0DRwNz+QnUrbL6kaf1RvHHc6UjrI6Tp75E6Kw6" crossorigin="anonymous">
+    
+    <!-- Dark Theme CSS -->
+    <link href="https://bootswatch.com/5/darkly/bootstrap.min.css" rel="stylesheet">
+  </head>
+  <body>
 <header>
       <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
         <div class="container-fluid">
@@ -42,3 +55,6 @@
         </div>
       </nav>
     </header>
+        
+      </body>
+</html>
